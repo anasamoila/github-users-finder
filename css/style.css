@@ -1,0 +1,9 @@
+* {
+	box-sizing:border-box;
+}
+body, html {
+	max-width:100%;
+}
+.avatar {
+	max-width:100%;
+}
